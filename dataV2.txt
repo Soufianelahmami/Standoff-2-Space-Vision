@@ -45,13 +45,18 @@
 
 },
   "my_data":[
-  {"desc1":"In Sneaky Sasquatc players guide their Sasquatch through various activitie and have fun while evading the watchful eyes of the park authorities. ",
-   "photo1":"https://iili.io/Ht07B6b.webp"},
-  {"desc2":"The Sasquatch must sneak around the park, pilfering picnic baskets, stealing snacks from campers, and raiding trash cans for goodies. Players can explore the park, visit different locations, and interact with various characters to complete quests and missions.","photo2":"https://iili.io/Ht07fne.webp"},
-  {"desc3":"Throughout the game, players will encounter park rangers who are always on the lookout for the elusive Sasquatch. To avoid suspicion, players must dress up in disguises, sneak through bushes, and use cunning tactics to stay out of sight. If caught, the game is not over, but the Sasquatch will have to find a way to escape from the rangers and return to its sneaky activities.","photo3":"https://iili.io/Ht07qMu.webp"},
-  {"desc4":"As players progress, they can unlock new areas of the park, discover secret hiding spots, and uncover hidden treasures. The game offers a mix of stealth, exploration, and casual gameplay, making it enjoyable for players of all ages.","photo4":"https://iili.io/Ht07qMu.webp"},
-  {"desc5":"Sneaky Sasquatch has received praise for its engaging gameplay, charming graphics, and witty humor. It's a game that appeals to both casual players looking for a fun time and more dedicated players aiming to complete all the quests and challenges.","photo5":"https://iili.io/Ht07Ft9.webp"},
-  {"descd":"If you enjoy lighthearted adventures with a touch of stealth and humor, Sneaky Sasquatch might be the perfect game for you. Whether you're sneaking around the park or causing delightful mayhem, it's an enjoyable and endearing experience that will keep you entertained for hours ","photod":"https://iili.io/Ht07nFj.webp"}
+  {"desc1":"Emergence of Space Vision: Standoff 2 Space Vision is a pioneering expansion that merges the thrill of tactical gameplay with the awe-inspiring expanse of space. It combines the core mechanics of Standoff 2 with space-themed elements to create an immersive and otherworldly adventure.",
+   "photo1":"https://iili.io/Hyhev3l.jpg"},
+  {"desc2":"Augmented Reality Marvel: Built on augmented reality (AR) technology, Space Vision seamlessly integrates the virtual world with the real one. It transforms the player's surroundings into a celestial battlefield, offering a unique way to interact with the game environment.",
+"photo2":"https://iili.io/HyheSvS.jpg"},
+  {"desc3":"A Cosmic Playground: Players find themselves in interstellar settings, battling across planets, asteroids, and space stations, each with its own set of challenges and strategic opportunities.",
+"photo3":"https://iili.io/Hyhe8a2.jpg"},
+  {"desc4":"Zero Gravity Engagements: Space Vision introduces the novel concept of zero gravity gameplay, requiring players to adapt their tactics to navigate and engage opponents in a weightless environment.",
+"photo4":"https://iili.io/Hyhee44.jpg"},
+  {"desc5":"Space Arsenal: A distinctive range of space-themed weaponry and equipment grants players an array of choices, all intricately designed to align with the cosmic narrative.",
+"photo5":"https://iili.io/HyheUy7.jpg"},
+  {"descd":"Visual Extravaganza: The AR overlays not only transform the physical space but also treat players to a visual spectacle, rendering   the cosmos in a stunning and captivating manner.",
+"photod":"https://iili.io/Hyheru9.jpg"}
    ]
  
 }
